@@ -50,16 +50,6 @@ Analyzes conversion rates, goal completions, page performance, users, sessions, 
 - Data Visualization
 - Data Analysis
 
-## Dashboard Preview
-
-### Page 1
-![Website Traffic Overview]
-
-### Page 2
-![Traffic Sources and Engagement]
-
-### Page 3
-![Conversion and Page Performance]
 
 ## Insights
 

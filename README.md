@@ -53,13 +53,13 @@ Analyzes conversion rates, goal completions, page performance, users, sessions, 
 ## Dashboard Preview
 
 ### Page 1
-![Website Traffic Overview](Dashboard-Images/Page-1-Website-Traffic-Overview.png)
+![Website Traffic Overview]
 
 ### Page 2
-![Traffic Sources and Engagement](Dashboard-Images/Page-2-Traffic-Sources-and-Engagement.png)
+![Traffic Sources and Engagement]
 
 ### Page 3
-![Conversion and Page Performance](Dashboard-Images/Page-3-Conversion-and-Page-Performance.png)
+![Conversion and Page Performance]
 
 ## Insights
 
